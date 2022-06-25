@@ -1,0 +1,100 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&family=Source+Sans+Pro:ital,wght@0,400;0,600;0,700;0,900;1,400;1,600;1,700;1,900&display=swap");
+
+body {
+  background-color: #eeeeee;
+  font-family: "Source Sans Pro", sans-serif;
+}
+section {
+  margin-bottom: 6rem;
+}
+
+h1,
+h2,
+h3 {
+  font-weight: 600;
+}
+
+.mynav {
+  background-color: #eeeeee;
+}
+.mynav .navbar-brand {
+  font-weight: 700;
+}
+
+.mynav .navbar-brand img {
+  width: 22px;
+  margin-right: 7px;
+}
+
+.summary-profile {
+  margin-top: 5rem;
+}
+
+.summary-profile .profile img {
+  max-width: 70%;
+  border-radius: 50%;
+}
+
+.btn-ss4 {
+  background-color: #76c2af;
+  font-weight: 600;
+}
+
+.summary-profile h1 {
+  font-weight: 700;
+}
+
+.summary-profile h3 {
+  font-style: italic;
+}
+
+.summary p {
+  line-height: 8px;
+}
+
+.social-link i {
+  font-size: 25px;
+  margin-right: 0.7rem;
+}
+
+.social-link i:hover {
+  cursor: pointer;
+}
+
+.social-link i.fa-facebook {
+  color: #4267b2;
+}
+.social-link i.fa-pinterest {
+  color: #e60023;
+}
+
+.social-link i.fa-twitter {
+  color: #00acee;
+}
+
+.social-link i.fa-linkedin {
+  color: #0072b1;
+}
+
+.social-link i.fa-skype {
+  color: #00aff0;
+}
+
+.social-link i.fa-telegram {
+  color: #0088cc;
+}
+.social-link i.fa-youtube {
+  color: #c4302b;
+}
+
+.social-link i.fa-facebook:hover {
+  color: black;
+}
+
+.about-me .btn-group {
+  margin-right: 4rem;
+}
+
+.about-me img {
+  width: 70%;
+}
